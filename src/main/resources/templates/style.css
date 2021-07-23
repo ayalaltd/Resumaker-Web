@@ -31,10 +31,33 @@ body {
     padding:10px;
     text-align: center;
   }
+
+  .tab {
+    margin-left: 40px; 
+  }
+
+  .previousNextPadding {
+    margin-left: 40px;
+    background-color: rgb(175, 175, 174);
+  }
+
+  .previousNextColor {
+    background-color: rgb(175, 175, 174);
+  }
+
+  .addButton {
+    margin-top: 30px;
+    background-color: rgb(175, 175, 174);
+  }
+
+  .description {
+    width: 400px;
+    text-align: left;
+  }
   .row {
     display: flex;
   }
-  
+
   .column {
     flex: 50%;
   }
